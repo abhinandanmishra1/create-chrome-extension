@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Abhi's Launcher",
+    "description": "Social Media Arrange",
+    "version": "1.0.0",
+    "icons": { "128": "128_logo.png" },
+    "browser_action": {
+      "default_icon": "logo.png",
+      "default_popup": "pop.html"
+    },
+    "permissions": ["activeTab"]
+  }
