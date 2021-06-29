@@ -38,7 +38,7 @@
 ## How to upload on chrome store?
 - Uploading on chrome web store takes one time investment of ***5$.***
 - I have also not uploaded my extension but I can use it and anyone who want to use it can use my code.
-- If you want upload on chrome store then [Read this blog](https://developer.chrome.com/docs/webstore/publish/).
+- If you want to upload on chrome store then [Read this blog](https://developer.chrome.com/docs/webstore/publish/).
 
   
 ## Happy Learning.. 
